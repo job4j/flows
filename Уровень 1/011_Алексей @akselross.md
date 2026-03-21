@@ -40,3 +40,17 @@
 5. Фильтрация учеников [#110058]		
 6. Список адресов [#110062]		
 7. Уникальность элементов и сортировка. [#110225]
+
+
+21.03.2026
+На следующей неделе
+
+Обзор Spring [#505288]		
+DI, IoC, Beans, BeanFactory, ApplicationContext [#505289]		
+BeanFactory | ApplicationContext [#505290]		
+Типы ApplicationContext [#505291]		
+Жизненный цикл Spring Bean [#505292]		
+@Value | application.properties [#505293]		
+Aware интерфейсы [#505301]		
+Что не должно лежать в GitHub? [#505374]		
+Настройка окружения *.properties [#505377]
