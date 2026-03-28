@@ -38,3 +38,7 @@ Resilience4j [#505447]
 4. Docker сервисы [#504781]		
 5. Docker томы [#504780]		
 6. Многоэтапная сборка [#504902]
+
+21.03.2026
+
+1. K8s. Spring Boot и PostgreSQL [#504785] - in progress

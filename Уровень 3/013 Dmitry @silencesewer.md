@@ -29,3 +29,8 @@ Transactional Manager [#505093]
 8. DTO [#505114]		
 9. Валидация моделей в REST [#505115]		
 10. OpenAPI и Swagger - документирование REST API [#505117]
+
+21.03.2026
+
+8. DTO [#505114] in progress
+9. 3. JWT_based_security SpringBoot рабочий пример [#505120] - TODO 

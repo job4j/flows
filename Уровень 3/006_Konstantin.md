@@ -10,3 +10,7 @@ Pipeline для K8s [#505385]
 Обзор | Установка Helm Charts [#505387]		
 Объекты K8s | Ingress [#505386]		
 Создание Helm Charts для проекта job4j_k8s [#505388]
+
+21.03.2026
+
+Объекты K8s | Ingress [#505386] - in progress
