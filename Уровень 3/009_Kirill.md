@@ -42,3 +42,10 @@ Resilience4j [#505447]
 21.03.2026
 
 1. K8s. Spring Boot и PostgreSQL [#504785] - in progress
+
+
+28.03.2026
+На следующей неделе
+
+1. K8s. Spring Boot и PostgreSQL [#504785] - in progress
+2. Тестовое задание. Микросервисы. [#504901]

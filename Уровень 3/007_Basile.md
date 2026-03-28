@@ -27,3 +27,17 @@ Resilience4j [#505447]
 
 Тестовое задание. Микросервисы. [#504901] - in process
 DevOps - in progress
+
+
+28.03.2026
+На следующей неделе
+
+Liquibase в Spring boot [#505363]		
+Liquibase в Gradle [#505364]		
+Структура и написание скриптов миграций [#505365]		
+Liquibase:rollback [#505366]		
+Настройки окружения | dotEnv [#505367]		
+Обновление базы данных в pipeline [#505368]		
+
+4.8.6. Testcontainer | Интеграционные тесты с Kafka
+4.8.7. Kubernetes | Helm Charts

@@ -34,3 +34,13 @@ Transactional Manager [#505093]
 
 8. DTO [#505114] in progress
 9. 3. JWT_based_security SpringBoot рабочий пример [#505120] - TODO 
+
+
+28.03.2026
+На следующей неделе
+
+3.5.4. Deploy
+3.5.5. Actuator
+3.5.6. Executor
+
+UrlShortCut [#505134]
