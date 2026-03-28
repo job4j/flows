@@ -49,3 +49,19 @@ Aware интерфейсы [#505301]
 @Profile | Пользователи системы [#505303]		
 Внедрение коллекций | Поставщики контекста [#505300]		
 Механизм рассылки уведомлений [#505297]
+
+
+28.03.2026
+На следующей неделе
+
+Spring Data JPA [#505298]		
+Модели данных [#505302]		
+@Bean | Инициализация базы данных [#505304]		
+MoodService - бизнес логика системы [#505299]		
+@Component и @Bean | Рефакторинг класса TgServiceRemote [#505305]		
+@Service и @Repository | BotCommandHandler - обработка комманд [#505306]		
+SentContent - интеграция Content с Telegram API [#505307]		
+RemindService | Тестирование [#505308]
+
+ApplicationListener | AchievementService [#505294]		
+@Autowired | @Qualifier [#505314]
