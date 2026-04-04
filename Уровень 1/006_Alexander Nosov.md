@@ -65,3 +65,16 @@ RemindService | Тестирование [#505308]
 
 ApplicationListener | AchievementService [#505294]		
 @Autowired | @Qualifier [#505314]
+
+
+04.04.2026
+На следующей неделе
+
+MoodService - бизнес логика системы [#505299]		
+@Component и @Bean | Рефакторинг класса TgServiceRemote [#505305]		
+@Service и @Repository | BotCommandHandler - обработка комманд [#505306]		
+SentContent - интеграция Content с Telegram API [#505307]		
+RemindService | Тестирование [#505308]
+
+ApplicationListener | AchievementService [#505294]		
+@Autowired | @Qualifier [#505314]
