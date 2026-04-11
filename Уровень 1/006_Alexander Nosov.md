@@ -78,3 +78,18 @@ RemindService | Тестирование [#505308]
 
 ApplicationListener | AchievementService [#505294]		
 @Autowired | @Qualifier [#505314]
+
+
+11.04.2026
+На следующей неделе
+
+RemindService | Тестирование [#505308]
+
+ApplicationListener | AchievementService [#505294]		
+@Autowired | @Qualifier [#505314]
+
+Область применения | Scope bean [#505315]		
+@Conditional [#505316]		
+Еще раз про рождение, жизнь и смерть Spring bean [#505317]		
+Как прокачать ООП. Топ 5 советов. [#505380]		
+@Configuration [#505318]
