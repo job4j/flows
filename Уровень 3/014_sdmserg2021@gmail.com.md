@@ -32,3 +32,25 @@
 3.3.8. Spring Test, Mockito
 
 
+18.04.2026
+На следующей неделе
+
+1. Что такое Mock-объект. [#504866]		
+2. Тестируем VacancyController [#504867]
+
+Spring Boot [#505092]		
+Создание проекта Spring boot [#505096]		
+Описание проекта Spring boot [#505097]		
+Проект Social Media API [#505090]
+
+Доменная модель [#505091]		
+Data Source [#505094]		
+Spring Data JPA [#505127]		
+Spring Data JPA Test [#505130]		
+Интерфейсы JPA репозиториев [#505062]		
+Именованные запросы [#505063]		
+HQL, JPQL, Native SQL [#505064]		
+Transactional Manager [#505093]		
+@Transaction [#505065]
+
+

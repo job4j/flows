@@ -93,3 +93,16 @@ ApplicationListener | AchievementService [#505294]
 Еще раз про рождение, жизнь и смерть Spring bean [#505317]		
 Как прокачать ООП. Топ 5 советов. [#505380]		
 @Configuration [#505318]
+
+
+18.04.2026
+На следующей неделе
+
+ApplicationListener | AchievementService [#505294]		
+@Autowired | @Qualifier [#505314]
+
+Область применения | Scope bean [#505315]		
+@Conditional [#505316]		
+Еще раз про рождение, жизнь и смерть Spring bean [#505317]		
+Как прокачать ООП. Топ 5 советов. [#505380]		
+@Configuration [#505318]
