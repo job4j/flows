@@ -54,3 +54,26 @@ Transactional Manager [#505093]
 @Transaction [#505065]
 
 
+09.05.2026
+На следующей неделе
+
+1. Конфигурация Hibernate [#6872]		
+2. HQL [#6874]
+
+3. HbmTracker [#287705]
+
+4. TODO list [#3786]		
+5. Аутентификация в проекте TODO [#504877]		
+6. Лямбды и шаблон Command [#49295]
+
+0. ToOne [#6873]		
+1. ToMany [#301848]		
+2. ManyToMany [#331986]		
+3. LazyInitializationexception [#331987]		
+4. Категории в TODO List [#331991]		
+5. Date [#331992]
+
+1. Интеграционное тестирование с Hibernate [#6875]		
+2. Интеграционные тесты для проект job4j_cars [#4746]
+
+
