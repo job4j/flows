@@ -14,3 +14,7 @@ Pipeline для K8s [#505385]
 21.03.2026
 
 Объекты K8s | Ingress [#505386] - in progress
+
+11.04.2026
+
+Nexus.
