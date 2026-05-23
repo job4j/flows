@@ -128,3 +128,13 @@ SQL - in progress
 3.1.4. Wait, Notify, NotifyAll
 3.1.5. Non Blocking Algoritm
 3.1.6. Пулы
+
+
+23.05.2026
+На следующей неделе
+
+3.1.2. Общие ресурсы
+3.1.3. Синхронизация ресурсов
+3.1.4. Wait, Notify, NotifyAll
+3.1.5. Non Blocking Algoritm
+3.1.6. Пулы
